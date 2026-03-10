@@ -14,7 +14,7 @@ HMI: Omron NB7W-TW01B (Designed via NB Designer).
 
 Simulation: Factory I/O (Real-time 3D Industrial Simulator).
 
-Communication: Ethernet/IP and FINS protocol.
+Communication: Ethernet/IP protocol.
 
 Control Logic: Grafcet (SFC) for sequential flow and Ladder Logic for safety/interlocking.
 
@@ -36,11 +36,9 @@ The HMI provides the operator with:
 
 Real-time Monitoring: Status of every sensor and actuator.
 
-System Control: Start, Stop, Reset, and Emergency Stop.
+System Control: Start, Stop and Reset.
 
 Order Management: A dedicated screen to select which part color/type to expedite from the warehouse.
-
-Diagnostics: Error reporting and cycle time monitoring.
 
 ## 📂 Repository Structure
 
