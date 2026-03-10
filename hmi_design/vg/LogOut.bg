@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vg ver="1" name="LogOut.bg" type="bmp" width="100" height="100" discription="" color="0xffffff" transparent="no"><state id="0"><draw name="" type="image" pos_sx="10" pos_sy="10" pos_ex="90" pos_ey="90" penwidth="1" penstyle="6" pencolor="0xeeeeaf" fillcolor="0xfae6e6" fill="color" GradientFill="false" BackgroundColor="0xfae6e6" ForegroundColor="0x0" lock_status="0" isgroupmember="no" src="..\image\Logout-2--Streamline-Ultimate_2.png" UseExtImage="false" ExtImageFileName="" ExtImageMemType="0"/></state></vg>
