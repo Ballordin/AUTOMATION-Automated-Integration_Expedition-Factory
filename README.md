@@ -1,5 +1,4 @@
 # Integrated Production, Assembly & Expedition Factory 🏭
-Industrial Automation | Industry 4.0 | Digital Twin
 
 ## 📖 Project Overview
 
